@@ -1,0 +1,6 @@
+{
+  "name": "학점플래너 — 고교학점제 시간표 도우미",
+  "description": "고등학생을 위한 관심 분야별 고교학점제 선택과목 3가지 추천 및 주간 시간표 가시화 도우미 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
