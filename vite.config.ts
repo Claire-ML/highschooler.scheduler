@@ -20,3 +20,6 @@ export default defineConfig(() => {
     },
   };
 });
+  return {
+    base: '/highschooler.scheduler/',
+    plugins: [react(), tailwindcss()],
